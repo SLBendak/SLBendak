@@ -1,7 +1,7 @@
 # Full-stack developer
 ![Shane's github stats](https://github-readme-stats.vercel.app/api?username=SLBendak&theme=nightowl&show_icons=true)
 
-[![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/slbendak/) 
+[![Linkedin Badge](https://img.shields.io/badge/-SLBendak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/slbendak/)](https://www.linkedin.com/in/slbendak/) 
 
 ![](https://komarev.com/ghpvc/?username=SLBendak&color=blueviolet)
 <!--
