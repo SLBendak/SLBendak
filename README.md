@@ -4,6 +4,26 @@
 
 ![Shane's github stats](https://github-readme-stats.vercel.app/api?username=SLBendak&theme=nightowl&show_icons=true)
 
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Shane Bendak'
+	current_edu = "General Assembly SEI"
+	hobbies = [
+				'Drawing',
+				'Watching Anime',
+				'Reading Sci-Fi Novels'
+				'Losing sleep chasing errors...'
+			]
+	
+	def getCity():
+		return Las Vegas_Nevada()
+	
+	def Ambitions():
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
+
 
 ![](https://komarev.com/ghpvc/?username=SLBendak&color=blueviolet)
 <!--
