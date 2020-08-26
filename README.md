@@ -1,4 +1,4 @@
-# Full-stack developer
+<p align="center"># Full-stack developer</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-SLBendak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/slbendak/)](https://www.linkedin.com/in/slbendak/) [![Gmail Badge](https://img.shields.io/badge/-shanelbendak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shanelbendak@gmail.com)](mailto:shanelbbendak@gmail.com)
 
