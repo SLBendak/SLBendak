@@ -1,5 +1,6 @@
 # Full-stack developer
 ![Shane's github stats](https://github-readme-stats.vercel.app/api?username=SLBendak&theme=nightowl&show_icons=true)
+![](https://komarev.com/ghpvc/?username=SLBendak&color=blueviolet)
 <!--
 **SLBendak/SLBendak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
